@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbrewr
 - 👀 I’m interested in all types of coding! I prefer C# as this is where I am now
 - 🌱 I’m currently learning C# (Novice at best)
-- 💞️ I’m looking to collaborate on any project that inforces basic C# components
+- 💞️ I’m looking to collaborate on any project that build upon basic C# components
 - 📫 How to reach me jfbrewer@gmail.com
 
 <!---
